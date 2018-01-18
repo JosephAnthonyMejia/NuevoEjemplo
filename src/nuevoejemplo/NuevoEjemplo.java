@@ -16,7 +16,7 @@ public class NuevoEjemplo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola  nuevo ejuemplo");
+        System.out.println("Hola  nuevo ejemplo");
     }
     
 }
